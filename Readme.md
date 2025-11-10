@@ -29,3 +29,6 @@ Then, outline aggregates, events, and integration strategies for a production-sc
 |Bounded Context   | Description   |Entities/Aggregates   | Mapped Service   |
 |---|---|---|---|
 
+## 5. Example Context Interactions
+
+## 6. Ubiquitous Language
