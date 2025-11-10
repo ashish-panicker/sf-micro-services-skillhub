@@ -1,4 +1,4 @@
-# Problem Statement — **SkillHub: A Collaborative Learning and Training Platform**
+# SkillHub: A Collaborative Learning and Training Platform
 
 ## 1. Vision & Business Context
 
